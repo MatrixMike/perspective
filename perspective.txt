@@ -1,0 +1,6 @@
+perspective prog
+regarding the CPU time used by the prog - 
+i set sleep to 20 and total CPU usage went down to about 40%
+Also try moving the windows task manager over the freebasic window and then moving the mouse over the overlap windows - perspective prog still thinks it can read mouse at that position
+same goes for other windows over the persp prog
+
